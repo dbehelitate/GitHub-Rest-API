@@ -35,7 +35,7 @@ chmod +x github-activity.sh
 Se hai installato la [GitHub CLI](https://cli.github.com/) e lo strumento `jq`, puoi eseguire questa riga direttamente nel terminale:
 
 Istruzioni nel file "Guida veloce ALIAS gh CLI.txt"
-
+```bash
 gh gossip-activity nilbuild ⬜
 ```
 
